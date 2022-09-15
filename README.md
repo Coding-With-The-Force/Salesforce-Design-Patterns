@@ -1,5 +1,7 @@
 # How to Implement Design Patterns in Salesforce
 
+### This wiki is still under construction
+
 ### The Salesforce Design Patterns Wiki  
 
 Housed in this repo is a <a href="https://github.com/Coding-With-The-Force/Salesforce-Design-Patterns/wiki" target="_blank">wiki</a> that goes over how to implement each of the 23 design patterns outlined in the book <a href="https://amzn.to/3S3pZox" target="_blank">Design Patterns: Elements of Reusable Object-Oriented Software</a> written by "The Gang of Four". 
