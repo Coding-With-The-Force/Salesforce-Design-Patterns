@@ -1,6 +1,6 @@
 # How to Implement Design Patterns in Salesforce
 
-### This wiki is still under construction
+### This repo is still under construction
 
 ### The Salesforce Design Patterns Wiki  
 
